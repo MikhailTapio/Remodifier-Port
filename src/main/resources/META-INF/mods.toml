@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "MIT"
+
+[[mods]]
+modId = "modifiers"
+version = "${version}"
+displayName = "Remodified"
+authors = "Team Potato"
+description = '''
+
+'''
